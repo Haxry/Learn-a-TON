@@ -46,9 +46,17 @@ The standout feature? An AI Agent that provides real-time assistance on anything
 
 ## 📦 Installation
 
-1. Clone the repository:
-   `
-   git clone https://github.com/Haxry/Learn-a-TON/tree/main
+1. Clone the repository
+   ``` bash
+   git clone https://github.com/Haxry/Learn-a-TON && cd Learn-a-TON
+   ```
 
-   cd gamified-learning-app-ton
-   `
+2. Open a terminal & install the dependencies
+   ``` bash
+   npm install
+   ```
+
+3. Start your learning session.
+   ``` bash
+   npm start
+   ```
