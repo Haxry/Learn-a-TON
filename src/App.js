@@ -28,8 +28,8 @@ const LearnATON = () => {
         </div>
         
         <div className="flex items-center space-x-6">
-          <a href="https://docs.ton.org/v3/documentation/ton-documentation" target="_blank" className="text-gray-700 hover:text-blue-600">Courses</a>
-          <a href="https://docs.ton.org/v3/documentation/ton-documentation" target="_blank" rel="noopener noreferrer">
+          <a href="https://learn-indol-mu.vercel.app/" target="_blank" className="text-gray-700 hover:text-blue-600">Courses</a>
+          <a href="https://learn-indol-mu.vercel.app/" target="_blank" rel="noopener noreferrer">
             <button className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors">
               Start Learning
             </button>
@@ -50,13 +50,13 @@ const LearnATON = () => {
           </p>
           
           <div className="flex justify-center space-x-4">
-            <a href="https://docs.ton.org/v3/documentation/ton-documentation" target="_blank" rel="noopener noreferrer">
+            <a href="https://learn-indol-mu.vercel.app/" target="_blank" rel="noopener noreferrer">
               <button className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors flex items-center">
                 Begin Learning
                 <ArrowRight className="ml-2 h-4 w-4" />
               </button>
             </a>
-            <a href="https://docs.ton.org/v3/documentation/ton-documentation" target="_blank" rel="noopener noreferrer">
+            <a href="https://learn-indol-mu.vercel.app/" target="_blank" rel="noopener noreferrer">
               <button className="border-2 border-blue-600 text-blue-600 px-8 py-3 rounded-lg hover:bg-blue-50 transition-colors flex items-center">
                 View Courses
                 <BookOpen className="ml-2 h-4 w-4" />
@@ -73,7 +73,7 @@ const LearnATON = () => {
           />
           <FeatureCard 
             icon={Code}
-            title="AI Bot Assistance"
+            title="AI Agent Assistance"
             description="Get personalized guidance from AI-powered agents. Whether you're debugging code, solving challenges, or learning new concepts, our bots are here to assist you every step of the way."
           />
           <FeatureCard 
