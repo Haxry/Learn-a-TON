@@ -1,6 +1,6 @@
-# Gamified Learning App for TON Blockchain
+# Learn-a-TON
 
-Welcome to the Gamified Learning App for TON! 🚀 This app is your gateway to mastering the TON blockchain through engaging, gamified experiences. Whether you're a beginner looking to explore blockchain technology or an expert seeking deeper insights, this app has something for everyone. 
+Welcome to Learn-a-TON! 🚀 This app is your gateway to buidling on TON blockchain through engaging, gamified experiences. Whether you're a beginner looking to explore blockchain technology or an expert seeking deeper insights, this app has something for everyone. 
 
 The standout feature? An AI Agent that provides real-time assistance on anything related to the TON ecosystem!
 
@@ -10,7 +10,7 @@ The standout feature? An AI Agent that provides real-time assistance on anything
 
 ### 🎮 Gamified Learning
 - Interactive Modules: Learn about TON blockchain concepts, smart contracts, and decentralized applications through step-by-step tutorials.
-- Quizzes and Challenges: Test your knowledge and climb the leaderboard.
+- Quizzes and Challenges: Earn NFTs by unlocking different levels, test your knowledge and climb the leaderboard.
 - Rewards System: Earn tokens or achievements for completing milestones.
 
 ### 🤖 AI Agent for TON
