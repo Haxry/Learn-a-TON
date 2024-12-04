@@ -48,5 +48,6 @@ The standout feature? An AI Agent that provides real-time assistance on anything
 
 1. Clone the repository:
    `bash
-   git clone https://github.com/yourusername/gamified-learning-app-ton.git
+   git clone https://github.com/Haxry/Learn-a-TON/tree/main
    cd gamified-learning-app-ton
+   `bash
