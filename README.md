@@ -5,6 +5,16 @@ Welcome to Learn-a-TON! 🚀 This app is your gateway to buidling on TON blockch
 The standout feature? An AI Agent that provides real-time assistance on anything related to the TON ecosystem!
 
 ---
+## ❓Problem Statement
+For first time builders on TON, there's no single adequate resource to follow.
+- The documentation is quite dusty & incomplete.
+- AI models like chatgpt or claude mostly end up providing incorrect answers due to incomplete knowledge of the vast ecosystem of TON.
+
+## 💡Solution
+- We built a gamified experience for learning to buidl on TON. Earn NFTs, unlock levels, climb the leaderboard!
+- We spinned up our very own AI agent on TON chain by fine-tuning existing AI models like ChatGPT 40 & ChatGPT 01.
+
+---
 
 ## 🌟 Key Features
 
